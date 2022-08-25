@@ -1,2 +1,2 @@
-# First_site.dithub.io
+# First_site.github.io
 Мой первый хостинг
